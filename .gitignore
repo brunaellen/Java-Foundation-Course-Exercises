@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xm
+*.xml
+.gitignore
+*.swp
+*.iml
+.idea/
+*.DS_Store
+out/
